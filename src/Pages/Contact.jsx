@@ -102,6 +102,9 @@ export const Contact = () => {
           <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
             <FaYoutube size={24} />
           </a>
+            <a  href="https://gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
+            <FaEnvelope size={24} />
+          </a>
         </div>
       </section>
     </div>
